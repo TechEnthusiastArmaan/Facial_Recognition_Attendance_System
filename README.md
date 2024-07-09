@@ -77,3 +77,8 @@ attendance-system/
 ├── test.py
 ├── requirements.txt
 └── README.md
+
+## Notes
+
+- If you are using this code, make sure to change the paths of the files according to your environment. This includes paths in the scripts like `collecting_data.py`, `recognition_of_image.py`, `app.py`, and `test.py`. Adjust the paths to match the directory structure on your local machine.
+- Ensure the `haarcascade_frontalface_default.xml` file is correctly downloaded and placed in the `attendence system\data` directory.
